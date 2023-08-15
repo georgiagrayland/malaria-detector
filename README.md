@@ -1,33 +1,6 @@
-## How to use this repo
+# Live Malaria Dectector
 
-1. Fork this repo and copy the https URL of your forked Walkthrough01 repo
-
-1. Log into <a href="https://app.codeanywhere.com/" target="_blank" rel="noreferrer">CodeAnywhere</a> with your GitHub account.
-
-1. On your Dashboard, click on the New Workspace button
-
-1. Paste in the URL you copied from GitHub earlier
-
-1. Click Create
-
-1. Wait for the workspace to open. This can take a few minutes.
-
-1. Open a new terminal and <code>pip3 install -r requirements.txt</code>
-
-1. In the terminal type <code>pip3 install jupyter</code>
-
-1. In the terminal type <code>jupyter notebook --NotebookApp.token='' --NotebookApp.password=''</code> to start the jupyter server.
-
-1. Open port 8888 preview or browser
-
-1. Open the jupyter_notebooks directory in the jupyter webpage that has opened and click on the notebook you want to open.
-
-1. Click the button Not Trusted and choose Trust.
-
-Note that the kernel says Python 3. It inherits from the workspace so it will be Python-3.8.12 as installed by our template. To confirm this you can use <code>! python --version</code> in a notebook code cell.
-
-
-Your workspace is now ready to use. When you want to return to this project, you can find it in your CodeAnywhere <a href="https://app.codeanywhere.com/" target="_blank" rel="noreferrer">Dashboard</a>. You should only create 1 workspace per project.
+The deployed app can be reached [here](https://malaria-detector-live-615a147fde5d.herokuapp.com/)
 
 ## Dataset Content
 
